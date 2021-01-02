@@ -1,7 +1,7 @@
 # movie_search_app
 
 ## Install
-Install all the dependencies from the wdb
+Install all the dependencies from package.json
 
 ## Run
 ```
